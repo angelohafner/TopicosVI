@@ -1,2 +1,2 @@
-# Python
-Arquivos Python disciplina eletiva UDESC
+# Equações Diferenciais
+Vários arquivos da disciplina de Cálculo IV.
